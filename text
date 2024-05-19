@@ -1,0 +1,271 @@
+
+
+#: bot/buttons/inl.py:17
+msgid "✅Tasdiqlash✅"
+msgstr "Подтверждение"
+
+#: bot/buttons/inl.py:18
+msgid "❌Toxtatish❌"
+msgstr "❌Стоп❌"
+
+#: bot/buttons/inl.py:28
+msgid "Tasdiqlash"
+msgstr "Подтверждение"
+
+#: bot/buttons/inl.py:34
+msgid "Kanal"
+msgstr "Канал"
+
+#: bot/buttons/simple.py:7
+msgid "📞Contact jo'natish📞"
+msgstr "📞Отправить контакт📞"
+
+#: bot/buttons/simple.py:13
+msgid "Sherik kerak"
+msgstr "Нужен партнер"
+
+#: bot/buttons/simple.py:14
+msgid "Ish joyi kerak"
+msgstr "Нужна работа"
+
+#: bot/buttons/simple.py:15
+msgid "Hodim kerak"
+msgstr "Нужен работник"
+
+#: bot/buttons/simple.py:16
+msgid "Ustoz kerak"
+msgstr "Нужен учитель"
+
+#: bot/buttons/simple.py:17
+msgid "Shogirt kerak"
+msgstr "Нужен ученик"
+
+#: bot/detail/detail_form_text.py:7 bot/handlers/request_handler.py:33
+#: bot/handlers/request_handler.py:44
+msgid "Hodim"
+msgstr "Сотрудник"
+
+#: bot/detail/detail_form_text.py:8 bot/handlers/request_handler.py:29
+msgid "kerak"
+msgstr "нужно"
+
+#: bot/detail/detail_form_text.py:9
+msgid "🕑 Yosh"
+msgstr "🕑 Возраст"
+
+#: bot/detail/detail_form_text.py:10
+msgid "Texnologiya"
+msgstr "Технологии"
+
+#: bot/detail/detail_form_text.py:11
+msgid "Aloqa"
+msgstr "Общение"
+
+#: bot/detail/detail_form_text.py:12
+msgid "Hudud"
+msgstr "Площадь"
+
+#: bot/detail/detail_form_text.py:13
+msgid "Narxi"
+msgstr "Цена"
+
+#: bot/detail/detail_form_text.py:14
+msgid "Kasbi"
+msgstr "Оккупация"
+
+#: bot/detail/detail_form_text.py:15
+msgid "Murojaat qilish vaqti"
+msgstr "Время подавать апелляцию"
+
+#: bot/detail/detail_form_text.py:16
+msgid "Maqsad"
+msgstr "Цель"
+
+#: bot/detail/detail_form_text.py:18
+msgid "🏢 Idora"
+msgstr "Офис"
+
+#: bot/detail/detail_form_text.py:19
+msgid "✍️Mas'ul"
+msgstr "✍️Ответственный"
+
+#: bot/detail/detail_form_text.py:20
+msgid "Maosh"
+msgstr "Зарплата"
+
+#: bot/detail/detail_form_text.py:21
+msgid "Ish vaqti"
+msgstr "Рабочее время"
+
+#: bot/detail/detail_form_text.py:22
+msgid "Qo`shimcha ma`lumot"
+msgstr "Дополнительная информация"
+
+#: bot/detail/detail_text.py:6
+msgid ""
+"Assalom alaykum\n"
+"\n"
+"UstozShogird kanalining rasmiy botiga xush kelibsiz!\n"
+"/help ordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+"Приветъ\n"
+"\n"
+"Добро пожаловать на официальный бот канала Ustoz shogirt!\n"
+"/help Узнайте, на что я способен вместе с Ордамским командованием!"
+
+#: bot/detail/detail_text.py:13
+msgid ""
+" topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering.\n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+"Подать заявку на поиск\n"
+"\n"
+"Теперь вам зададут несколько вопросов.\n"
+"Ответьте каждому.\n"
+"В конце, если все правильно, нажмите кнопку ДА и ваше приложение\n"
+"Отправляетьса к админу"
+
+#: bot/detail/detail_text.py:21
+msgid ""
+"🕰 Murojaat qilish vaqti: \n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+"🕰 Время подачи заявки: \n"
+"Когда можно подать заявку?\n"
+"Например, с 9:00 до 18:00."
+
+#: bot/detail/detail_text.py:28
+msgid ""
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+"🌐 Регион: \n"
+"\n"
+"Из какого вы региона?\n"
+"Введите название региона, города Ташкента или Республики."
+
+#: bot/detail/detail_text.py:35
+msgid ""
+"📞 Aloqa:\n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting\n"
+"Yoki pastgi tugmani bosing?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+"📞 Контакт:\n"
+"\n"
+"Введите свой контактный номер\n"
+"Или нажмите кнопку ниже?\n"
+"Например, 998 90 123 45 67"
+
+#: bot/detail/detail_text.py:42
+msgid ""
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating.\n"
+" Masalan, Java, C++, C#"
+msgstr ""
+"📚 Технология:\n"
+"\n"
+"Введите необходимые технологии?\n"
+"Разделяйте названия технологий запятыми.\n"
+" Например Java, C , C"
+
+#: bot/detail/detail_text.py:49
+msgid ""
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+"💰 Цена:\n"
+"\n"
+"Платно или бесплатно?\n"
+"При необходимости введите Сумма?"
+
+#: bot/detail/detail_text.py:54
+msgid "Ism, familiyangizni kiriting!"
+msgstr "Введите свое имя и фамилию!"
+
+#: bot/detail/detail_text.py:59
+msgid ""
+"👨🏻‍💻 Kasbi:\n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+"👨🏻‍💻 Род занятий:\n"
+"\n"
+"Вы работаете или учитесь?\n"
+"Например, Студент"
+
+#: bot/detail/detail_text.py:64
+msgid ""
+"🔎 Maqsad:\n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+"🔎 Цель:\n"
+"\n"
+"Кратко запишите свою цель."
+
+#: bot/detail/detail_text.py:69
+msgid ""
+"🕑 Yosh:\n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+"🕑 Возраст:\n"
+"\n"
+"Введите свой возраст?\n"
+"Например, 19"
+
+#: bot/handlers/language_handler.py:15
+msgid "Til tanlandi"
+msgstr "Выбран язык"
+
+#: bot/handlers/request_handler.py:34
+msgid "🎓 Idora nomi?"
+msgstr "🎓 Название офиса?"
+
+#: bot/handlers/request_handler.py:45
+msgid "✍️Mas'ul ism sharifi?"
+msgstr "✍️Ответственное имя шериф?"
+
+#: bot/handlers/request_handler.py:73
+msgid "Yuborgan malumot telefon raqam emas"
+msgstr "Отправленная вами информация не является номером телефона."
+
+#: bot/handlers/request_handler.py:83
+msgid "💰 Maoshni kiriting?"
+msgstr "💰 Ввести зарплату?"
+
+#: bot/handlers/request_handler.py:94
+msgid "🕰 Ish vaqtini kiriting?"
+msgstr "🕰 Введите рабочее время?"
+
+#: bot/handlers/request_handler.py:119
+msgid "‼️ Qo`shimcha ma`lumotlar?"
+msgstr "‼️ Дополнительная информация?"
+
+#: bot/handlers/request_handler.py:134
+msgid "Adminga jo'natildi"
+msgstr "Отправлено администратору"
+
+#: bot/handlers/request_handler.py:136
+msgid "Protsess toxtatildi"
+msgstr "Процесс остановлен."
+
+#: bot/handlers/start.py:20
+msgid "Til tanlang"
+msgstr "Выберите язык"
+

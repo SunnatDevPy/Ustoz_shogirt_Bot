@@ -1,0 +1,243 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-19 13:43+0500\n"
+"PO-Revision-Date: 2024-05-19 13:43+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/buttons/inl.py:18
+msgid "❌Toxtatish❌"
+msgstr ""
+
+#: bot/buttons/inl.py:28
+msgid "Tasdiqlash"
+msgstr ""
+
+#: bot/buttons/inl.py:34
+msgid "Kanal"
+msgstr ""
+
+#: bot/buttons/simple.py:7
+msgid "📞Contact jo'natish📞"
+msgstr ""
+
+#: bot/buttons/simple.py:13
+msgid "Sherik kerak"
+msgstr ""
+
+#: bot/buttons/simple.py:14
+msgid "Ish joyi kerak"
+msgstr ""
+
+#: bot/buttons/simple.py:15
+msgid "Hodim kerak"
+msgstr ""
+
+#: bot/buttons/simple.py:16
+msgid "Ustoz kerak"
+msgstr ""
+
+#: bot/buttons/simple.py:17
+msgid "Shogirt kerak"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:7 bot/handlers/request_handler.py:33
+#: bot/handlers/request_handler.py:44
+msgid "Hodim"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:8 bot/handlers/request_handler.py:29
+msgid "kerak"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:9
+msgid "🕑 Yosh"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:10
+msgid "Texnologiya"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:11
+msgid "Aloqa"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:12
+msgid "Hudud"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:13
+msgid "Narxi"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:14
+msgid "Kasbi"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:15
+msgid "Murojaat qilish vaqti"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:16
+msgid "Maqsad"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:18
+msgid "🏢 Idora"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:19
+msgid "✍️Mas'ul"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:20
+msgid "Maosh"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:21
+msgid "Ish vaqti"
+msgstr ""
+
+#: bot/detail/detail_form_text.py:22
+msgid "Qo`shimcha ma`lumot"
+msgstr ""
+
+#: bot/detail/detail_text.py:15
+msgid ""
+"Assalom alaykum\n"
+"\n"
+"UstozShogird kanalining rasmiy botiga xush kelibsiz!\n"
+"/help ordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+
+#: bot/detail/detail_text.py:22
+msgid ""
+" topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering.\n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+
+#: bot/detail/detail_text.py:30
+msgid ""
+"🕰 Murojaat qilish vaqti: \n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+
+#: bot/detail/detail_text.py:37
+msgid ""
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+
+#: bot/detail/detail_text.py:44
+msgid ""
+"📞 Aloqa:\n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting\n"
+"Yoki pastgi tugmani bosing?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+
+#: bot/detail/detail_text.py:51
+msgid ""
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating.\n"
+" Masalan, Java, C++, C#"
+msgstr ""
+
+#: bot/detail/detail_text.py:58
+msgid ""
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+
+#: bot/detail/detail_text.py:63
+msgid "Ism, familiyangizni kiriting!"
+msgstr ""
+
+#: bot/detail/detail_text.py:68
+msgid ""
+"👨🏻‍💻 Kasbi:\n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+
+#: bot/detail/detail_text.py:73
+msgid ""
+"🔎 Maqsad:\n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+
+#: bot/detail/detail_text.py:78
+msgid ""
+"🕑 Yosh:\n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+
+#: bot/handlers/language_handler.py:17
+msgid "Til tanlandi"
+msgstr ""
+
+#: bot/handlers/request_handler.py:34
+msgid "🎓 Idora nomi?"
+msgstr ""
+
+#: bot/handlers/request_handler.py:45
+msgid "✍️Mas'ul ism sharifi?"
+msgstr ""
+
+#: bot/handlers/request_handler.py:75
+msgid "Yuborgan malumot telefon raqam emas"
+msgstr ""
+
+#: bot/handlers/request_handler.py:85
+msgid "💰 Maoshni kiriting?"
+msgstr ""
+
+#: bot/handlers/request_handler.py:96
+msgid "🕰 Ish vaqtini kiriting?"
+msgstr ""
+
+#: bot/handlers/request_handler.py:122
+msgid "‼️ Qo`shimcha ma`lumotlar?"
+msgstr ""
+
+#: bot/handlers/request_handler.py:137
+msgid "Adminga jo'natildi"
+msgstr ""
+
+#: bot/handlers/request_handler.py:139
+msgid "Protsess toxtatildi"
+msgstr ""
+
+#: bot/handlers/start.py:20
+msgid "Til tanlang"
+msgstr ""
+
