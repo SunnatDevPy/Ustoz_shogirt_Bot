@@ -14,8 +14,8 @@ language_router = Router()
 async def language_handler(call: CallbackQuery, state: FSMContext):
     lang_code = call.data.split('lang_')[-1]
     await state.update_data(locale=lang_code)
-    await call.answer(_(_('Til tanlandi'), locale=lang_code), show_alert=True)
-    await call.message.answer('/start')
+    await call.answer(_(_('Til tanlandi' , locale=lang_code)), show_alert=True)
+    await call.message.answer('/start ' , locale=lang_code)
 
 
 
